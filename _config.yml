@@ -108,5 +108,8 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
-    }
+    },{
+        title: "My QQ",
+        href: "https://im.qq.com/"
+    },
 ]
