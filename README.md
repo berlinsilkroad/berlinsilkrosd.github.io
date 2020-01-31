@@ -49,7 +49,7 @@
 
 ```
 # Site settings
-title: Bl Blog                    # 你的博客网站标题
+title: BL Blog                    # 你的博客网站标题
 SEOTitle: berlin的博客 | BL Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
